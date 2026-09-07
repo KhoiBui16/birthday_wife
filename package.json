@@ -1,0 +1,27 @@
+{
+  "name": "birthday-wife",
+  "version": "1.0.0",
+  "description": "Trang chuc mung sinh nhat Thien Thanh",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhoiBui16/birthday_wife.git"
+  },
+  "keywords": [
+    "birthday",
+    "greeting",
+    "animation"
+  ],
+  "author": "KhoiBui16",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/KhoiBui16/birthday_wife/issues"
+  },
+  "homepage": "https://khoibui16.github.io/birthday_wife/",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
